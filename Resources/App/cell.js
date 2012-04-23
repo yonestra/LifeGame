@@ -58,15 +58,15 @@
         }
         
         // baseView.apply = function(newBase) {
-            // for(var i=0; i<length; i++) {
-                // for(var j=0; j<length; j++) {
-                    // if(newBase[i+1][j+1]) {
-                        // baseView[i+','+j].backgroundColor = 'black';
-                    // } else {
-                        // baseView[i+','+j].backgroundColor = 'white';
-                    // }
-                // }
-            // }
+        // for(var i=0; i<length; i++) {
+        // for(var j=0; j<length; j++) {
+        // if(newBase[i+1][j+1]) {
+        // baseView[i+','+j].backgroundColor = 'black';
+        // } else {
+        // baseView[i+','+j].backgroundColor = 'white';
+        // }
+        // }
+        // }
         // }
         
         return baseView;
